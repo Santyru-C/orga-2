@@ -1,0 +1,1 @@
+It is necessary to open all .xopp files with Xournall++
